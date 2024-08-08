@@ -1,4 +1,5 @@
 # user-list
+this is my very simple first VueJS app to learn more about VueJS
 
 ## Project setup
 ```
